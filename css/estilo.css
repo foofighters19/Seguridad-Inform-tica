@@ -1,0 +1,144 @@
+#principal{
+	width: 1294px;
+	height: auto; overflow: hidden;
+	border: 0px solid #000;
+	margin: auto;
+}
+
+header{
+	width: 1294px;
+	height: 150px;
+	border: 0px solid #000;
+	float: right;
+	
+}	
+
+
+	
+#logo{
+	width: 300px;
+	height: 200px;
+	float: left;
+}
+
+.menu{
+	width: 700px;
+	height: 50px;
+	border: 1px #CCC;
+	float: right;
+	background: #006699;
+
+}
+
+.menu ul{}
+
+.menu ul li{
+	list-style: none;
+	float: right;
+}
+
+
+.menu ul li a{
+	text-decoration: none;
+	padding: 10px 15px;
+	border: 3px solid #CCC;
+	color: #fff;
+}
+
+.menu ul li a:hover{
+	background: #e0e0e0;
+	color: #006699;
+}
+
+#slide{
+	margin-top: 10px;
+	width: 2500px;
+}
+
+#categorias{
+	width: 1295px;
+	height: auto; overflow: hidden;
+	border: 0px solid;
+	margin-top: 5px;
+}
+
+.uno{
+	width: 310px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	text-align: justify;
+}
+
+.dos{
+	width: 310px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 5px;
+	text-align: center;
+	text-align: justify;
+}
+
+.tres{
+	width: 310px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 6px;
+	text-align: center;
+	text-align: justify;
+}
+
+.cuatro{
+	width: 310px;
+	height: auto; overflow: hidden;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 7px;
+	text-align: center;
+	text-align: justify;
+}
+
+#info{
+	width: 1500px;
+	height: auto; overflow: hidden;
+	border: 0px solid #c0c0c0;
+
+}
+
+#izq{
+	width: 600px;
+	height: auto; overflow: hidden;
+	border: 1px solid #CCC;
+	float: left;
+	padding: 5px;
+	text-align: justify;
+}
+
+.img{
+	margin-right: 7px;
+	margin-bottom: 7px;
+
+}
+
+#der{
+	width: 800px;
+	height: 400px;
+	border: 1px solid #CCC;
+	float: right;
+}
+
+footer{
+	width: 1300px;
+	height: 100px;
+	text-align: center;
+}
+
+#footer p{
+	width: 400px;
+
+
+}
